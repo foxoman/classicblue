@@ -8,6 +8,7 @@
     "name": "foxoman",
     "email": "sultan@foxoman.net"
   },
+  "publisher": "foxoman",
   "repository": "https://github.com/foxoman/classicblue",
   "engines": {
     "vscode": "^1.70.0"
