@@ -4,6 +4,11 @@
   "description": "Classic Blue VsCode Theme",
   "icon": "icon.png",
   "version": "0.0.1",
+  "author": {
+    "name": "foxoman",
+    "email": "sultan@foxoman.net"
+  },
+  "repository": "https://github.com/foxoman/classicblue",
   "engines": {
     "vscode": "^1.70.0"
   },
